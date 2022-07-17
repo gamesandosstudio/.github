@@ -6,4 +6,4 @@ TBA
 ## Our cool Projects
 TBA
 
-Our open source projects have diffrent licences.
+Our open source projects have diffrent licences and could have a code of conduct.
